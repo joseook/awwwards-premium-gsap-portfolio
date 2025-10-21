@@ -1,8 +1,8 @@
-# 🌐 3D Awwwards-Level Developer Portfolio
+# 🌐 Jose's 3D Awwwards-Level Developer Portfolio
 
 ### Built with React, GSAP, Three.js, TailwindCSS
 
-This is a fully animated, interactive, 3D developer portfolio designed to **impress clients, recruiters, and hiring managers**. It's more than a portfolio—it's a web experience built with production-level code, scroll-based animations, and real-world best practices.
+This is a fully animated, interactive, 3D developer portfolio showcasing Jose's projects and skills. It features production-level code, scroll-based animations, and real-world best practices.
 
 > ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
 
@@ -17,7 +17,6 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 </div>
 <br/>
 
-> 📺 [Watch Full YouTube Walkthrough](https://youtu.be/i0229UsdBwc)
 ---
 
 ## 🚀 Tech Stack
@@ -41,14 +40,15 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 - ✍️ About section with clip-path image reveal + typewriter text
 - 🏁 Marquee-based Contact Summary and CTA
 - 💼 Fully responsive and accessible on all screen sizes
+- 🖱️ Clickable project links that open in new tabs
 
 ---
 
 ## 📦 Setup & Installation
 
 ```bash
-git clone https://github.com/Ali-Sanati/awwwards-portfolio.git
-cd awwwards-portfolio
+git clone https://github.com/joseook/awwwards-premium-gsap-portfolio.git
+cd awwwards-premium-gsap-portfolio
 npm install
 npm run dev
 ```
@@ -60,37 +60,38 @@ npm run dev
 ## 🛠️ Customization Tips
 
 - Change text, images, and links in /constants/index.js
-
 - Update 3D models and scene in Hero.jsx
-
 - Add your own contact info in Contact.jsx
-
 - Adjust colors, fonts, and layout via tailwind.config.js
 
 ---
 
-## 🔗 Assets
+## 🔗 Contact
 
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
-
----
-
-## 📣 Like the project?
-
-If this helped you build or inspire your own site:
-
-- ⭐ Star this repo
-
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
-
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
-
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
+- 📧 **Email**: joseok.business@gmail.com
+- 🌐 **Website**: [Portfolio](https://joseook.github.io/awwwards-premium-gsap-portfolio/)
+- 💼 **LinkedIn**: [jose-40baa9305](https://www.linkedin.com/in/jose-40baa9305/)
+- 🐙 **GitHub**: [joseook](https://github.com/joseook)
+- 🐦 **Twitter**: [joseokjs](https://twitter.com/joseokjs)
 
 ---
 
-## 🤝 Let’s Build Together
+## 📣 About Jose
 
-Drop a comment on the video or open an issue with your idea!
+Jose is a passionate Full-Stack Developer based in Brazil, specializing in modern web technologies, 3D web experiences, and interactive user interfaces. With expertise in React, Next.js, Angular, Three.js, and GSAP, Jose creates immersive digital experiences that combine functionality with stunning visual design.
 
-> 📩 Like, subscribe, and let me know what kind of project you want to build together!
+---
+
+## 🤝 Let's Build Together
+
+Interested in collaborating or have a project in mind? Feel free to reach out!
+
+> 📩 Available for remote projects and freelance opportunities.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 joseook
